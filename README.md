@@ -3,6 +3,7 @@ Elearning Mercubuna Web Scraping digunakan untuk memgambil list materi mata kuli
 
 # Instalation
 Terminal: git clone https://github.com/erza4bz/Elearning-Mercubuna-Web-Scraping.git
+
 Windows: Download as Zip
 
 # Requirement
