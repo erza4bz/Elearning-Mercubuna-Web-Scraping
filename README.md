@@ -7,15 +7,17 @@ Terminal: git clone https://github.com/erza4bz/Elearning-Mercubuna-Web-Scraping.
 Windows: Download as Zip
 
 # Requirement
-Mechanicalsoup
+1. Python version 2/3
+2. Python PIP
+3. MechanicalSoup
+
 install: pip install mechanicalsoup
 
 # Usage
-python webscrap.py
-or
-py webscrap.py
+1. Tambahkan NIM dan Password pada file credentials.json
+2. Run python3 autoscrap.py
 
 # Additional Information
-Teman-teman bisa menyesukaikan mata kuliah pada masing-masing function dengan mengubah id pada"course/view.php?id="
+Tools ini akan melakukan scraping automatis terhadap mata kuliah yang teman-teman ambil
 
-tested on python 3.9.1
+Tested on python 3.9.1
